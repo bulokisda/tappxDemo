@@ -1,4 +1,4 @@
-# tappxDemo
+# Tappx Advert Provisioning Demonstration for iOS
 
 ![Simulator Screen Shot - iPhone 8 - 2019-11-13 at 14 31 46](https://user-images.githubusercontent.com/57699501/68739668-4ede4400-0624-11ea-9372-6b44d70866f1.png)
 
