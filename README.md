@@ -9,3 +9,4 @@ Requires the Google Ad Framework and Tappx Frameworks (see www.tappx.com for det
 
 Note: You must get your own app key from Tappx and set this in your $tappxKey environment variable. This value will be used to overwrite the privateData.plist property at build time (as part of a run script build phase).
 
+https://user-images.githubusercontent.com/57699501/68739041-d88d1200-0622-11ea-9516-85147ec2723f.png
