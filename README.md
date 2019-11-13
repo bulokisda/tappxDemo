@@ -1,10 +1,8 @@
 # Tappx Advert Provisioning Demonstration for iOS
 
-Portrait                                                    |  Landscape
-:----------------------------------------------------------:|:-------------------------------------------------------------:
+Portrait                                                                         |  Landscape
+:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:
 ![Simulator Screen Shot - iPhone 8 - 2019-11-13 at 14 31 46](https://user-images.githubusercontent.com/57699501/68739668-4ede4400-0624-11ea-9372-6b44d70866f1.png)  |  ![Simulator Screen Shot - iPhone 8 - 2019-11-13 at 14 56 49](https://user-images.githubusercontent.com/57699501/68740474-1dff0e80-0626-11ea-915d-2295bec198e5.png)
-
-![Simulator Screen Shot - iPhone 8 - 2019-11-13 at 14 31 46](https://user-images.githubusercontent.com/57699501/68739668-4ede4400-0624-11ea-9372-6b44d70866f1.png)     ![Simulator Screen Shot - iPhone 8 - 2019-11-13 at 14 56 49](https://user-images.githubusercontent.com/57699501/68740474-1dff0e80-0626-11ea-915d-2295bec198e5.png)
 
 Demonstrates how to use Tappx for Ad provisioning in iOS apps (both banner and interstitial). Copes with landscape and portrait transitions.
 
